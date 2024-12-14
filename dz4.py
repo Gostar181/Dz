@@ -17,3 +17,4 @@ class mnb(m,n,b):
         b.__init__(self)
 
         print(self.name)
+#
